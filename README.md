@@ -1,4 +1,6 @@
-# cms-vue
+# Quiz Trivia
+
+A quiz game build with Vue.Js
 
 ## Project setup
 ```
